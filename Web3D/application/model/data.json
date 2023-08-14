@@ -1,0 +1,48 @@
+{
+  "pageTextData": [
+    {
+      "x3dModelTitle": "fanta X3D Model",
+      "x3dCreationMethod": "This X3D model of the fanta can has been created in 3ds Max, exported to VRML97 and converted, using the instantreality transcoders, to X3D for display online.",
+      "Title": "History of Fanta",
+      "subTitle": "Wartime Origins",
+      "Description": "The year was 1940, and Europe was embroiled in the throes of World War II. With trade embargoes in place due to the war, importing Coca-Cola syrup into Nazi Germany became impossible. Amidst this backdrop, Max Keith, the head of Coca-Cola Deutschland, took a challenge upon himself. Determined to keep the business afloat, he decided to create a drink using only ingredients available in Germany at the time, primarily whey and apple pomace. The result was a fruity beverage quite distinct from Coca-Cola. When thinking of a name, he urged his team to use their 'fantasy', and hence, the drink was christened 'Fanta'. This refreshing alternative was born out of necessity, yet it thrived and eventually became one of the most popular fruit-flavored sodas worldwide."
+    },
+    {
+      "x3dModelTitle": " Coke X3D Model",
+      "x3dCreationMethod": "This X3D model of the diet coke can has been created in 3ds Max, exported to VRML97 and converted, using the instantreality transcoders, to X3D for display online.",
+      "title": "History of Coca Cola",
+      "subTitle": "Atlanta Beginnings",
+      "description": "It was 1886, and in New York Harbour, workers were constructing the Statue of Liberty. Eight hundred miles away, another great American symbol was about to be unveiled. Like many people who change history, John Pemberton, an Atlanta pharmacist, was inspired by simple curiosity. One afternoon, he stirred up a fragrant, caramel-coloured liquid and, when it was done, he carried it a few doors down to Jacobs' Pharmacy. Here, the mixture was combined with carbonated water and sampled by customers who all agreed - this new drink was something special. So Jacobs' Pharmacy put it on sale for five cents (about 3p) a glass." 
+    },
+    {
+      "x3dModelTitle": "Dr Pepper X3D Model",
+      "x3dCreationMethod": "",
+      "title": "Dr Pepper — Liquid Sunshine",
+      "subTitle": "23 fruit flavours",
+      "description": "Dr Pepper's unique, sparkling blend of 23 fruit flavours has been around for well over a century and it's still the same, with that distinctive flavour you just can't quite put your tongue on. It was created by Texas pharmacist Charles Alderton in 1885. He gave a sample of the first ever batch to Wade Morrison, a local shop owner, and Mr Morrison instantly agreed to stock the drink. The distinctive, bold taste of Dr Pepper has been popular ever since."
+    },
+    {
+      "x3dModelTitle": "coke X3D Model",
+      "x3dCreationMethod": "",
+      "title": "History of Coca Cola",
+      "subTitle": "Atlanta Beginnings",
+      "description": "It was 1886, and in New York Harbour, workers were constructing the Statue of Liberty. Eight hundred miles away, another great American symbol was about to be unveiled. Like many people who change history, John Pemberton, an Atlanta pharmacist, was inspired by simple curiosity. One afternoon, he stirred up a fragrant, caramel-coloured liquid and, when it was done, he carried it a few doors down to Jacobs' Pharmacy. Here, the mixture was combined with carbonated water and sampled by customers who all agreed - this new drink was something special. So Jacobs' Pharmacy put it on sale for five cents (about 3p) a glass." 
+    },
+    {
+      "x3dModelTitle": "sprite X3D Model",
+      "x3dCreationMethod": "",
+      
+      "title": "History of Sprite",
+      "subTitle": "Burst of Lemon-Lime",
+      "description": "In the midst of the vibrant 1960s, while the world tuned into the Beatles and watched astronauts reach for the stars, another sensation was bubbling up. The Coca-Cola Company, in a bid to counteract the success of 7 Up, unveiled Sprite. Launched in 1961, this clear, caffeine-free soda burst onto the scene with a tantalizing lemon-lime flavor. Its refreshing taste and effervescent sparkle made it an instant favorite. The iconic 'Obey Your Thirst' slogan soon followed, encapsulating a generation's desire for authentic refreshment and individuality. Within a short span, Sprite transformed from a new entrant to an iconic global brand."
+    },
+    {
+      "galleryTitle": "3D Images",
+      "galleryDescription": "Model Object Gallery "
+    },
+    {
+      "CameraTitle": "Camera Views",
+      "CameraSubtitle": "These buttons select a range of X3D model viewpoints"
+    }
+  ]
+}
